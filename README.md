@@ -69,3 +69,5 @@
   </ul>
 <p>Документація з використання Git розміщена за    <a href="https://docs.google.com/document/d/1agdvcLqd2w2rWS0-fCqwsevO-7QN2xLpZPq7Haylq4U/edit">посиланням</a></p>
 <p>Виконав: <b>Барсук Владислав</b></p>
+
+vldbarsuk@gmail.com
